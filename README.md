@@ -6,8 +6,12 @@ using stash
 
 # using stash done 
 # feature
-# feature 2
+feature 4
 # feature 3
 # git flow added new header
+
+# feature 5
+
 # feature 6
+
 
